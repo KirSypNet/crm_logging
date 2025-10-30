@@ -1,0 +1,4 @@
+<?php
+$MESS['KIRSYP_CRM_LOGGING_MENU_TITLE'] = 'Логирование CRM';
+$MESS['KIRSYP_CRM_LOGGING_MENU_LOG_LIST'] = 'Просмотр логов';
+$MESS['KIRSYP_CRM_LOGGING_MENU_SETTINGS'] = 'Настройки';
